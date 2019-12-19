@@ -1,0 +1,81 @@
+{
+    "name": "Fluxiom",
+    "description": "Fluxiom offers seamless online file management in the cloud. Keep your files private, share them with a select audience or broadcast them to the world.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/594-fluxiom.jpg",
+    "tags": [
+        "api provider",
+        "files",
+        "have api",
+        "photos",
+        "relative data",
+        "service api",
+        "storage"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/fluxiom\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Fluxiom API",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/594-fluxiom.jpg",
+            "humanURL": "http:\/\/fluxiom.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/openapis\/fluxiom-api.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Base",
+            "url": "https:\/\/fluxiom.com\/api\/"
+        },
+        {
+            "type": "Blog",
+            "url": "http:\/\/blog.fluxiom.com\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/feeds.feedburner.com\/fluxiom"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/product\/fluxiom\/timeline"
+        },
+        {
+            "type": "Developers",
+            "url": "http:\/\/www.fluxiom.com\/api"
+        },
+        {
+            "type": "Email",
+            "url": "support@fluxiom.com"
+        },
+        {
+            "type": "Privacy",
+            "url": "http:\/\/www.fluxiom.com\/privacy"
+        },
+        {
+            "type": "Terms of Service",
+            "url": "http:\/\/www.fluxiom.com\/terms"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/fluxiom"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/fluxiom.com"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.fluxiom.com\/"
+        }
+    ]
+}
