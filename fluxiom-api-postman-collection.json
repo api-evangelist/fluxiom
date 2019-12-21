@@ -1,5 +1,5 @@
 {
-    "id": "09a849552d63d7b2d50fd6931ce9c12c",
+    "id": "e2b47f3c00aa426b8f29ac1534aca96e",
     "name": "Fluxiom API",
     "description": null,
     "auth": null,
@@ -10,7 +10,7 @@
     "folders": [],
     "requests": [
         {
-            "id": "0fcdfd2ede9970d82a538734c48170d4",
+            "id": "87cf4a14823ace0475565bd6be6a7841",
             "name": "Get assets",
             "url": "https{subdomain}.fluxiom.com\/api\/{format}\/api\/assets",
             "description": "Get assets",
@@ -58,11 +58,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "09a849552d63d7b2d50fd6931ce9c12c",
+            "collectionId": "e2b47f3c00aa426b8f29ac1534aca96e",
             "rawModeData": ""
         },
         {
-            "id": "f7bbb49e09e0792df4db829c08510904",
+            "id": "b880f439fd233e2605fb5142493f5b1c",
             "name": "Create asset",
             "url": "https{subdomain}.fluxiom.com\/api\/{format}\/api\/assets",
             "description": "Create asset",
@@ -110,11 +110,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "09a849552d63d7b2d50fd6931ce9c12c",
+            "collectionId": "e2b47f3c00aa426b8f29ac1534aca96e",
             "rawModeData": ""
         },
         {
-            "id": "0413ffc9a3f162df2d9c670af0ff6f91",
+            "id": "1c81ae854a5aa01c75932366300ade40",
             "name": "Download asset",
             "url": "https{subdomain}.fluxiom.com\/api\/{format}\/api\/assets\/download\/{id}",
             "description": "Download asset",
@@ -141,11 +141,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "09a849552d63d7b2d50fd6931ce9c12c",
+            "collectionId": "e2b47f3c00aa426b8f29ac1534aca96e",
             "rawModeData": ""
         },
         {
-            "id": "aec65cd54ecf018b4849d3d4a8babf09",
+            "id": "1b727bbbd5aa82e77978979ea1d85c1b",
             "name": "Get single asset",
             "url": "https{subdomain}.fluxiom.com\/api\/{format}\/api\/assets\/ID",
             "description": "Get single asset",
@@ -164,11 +164,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "09a849552d63d7b2d50fd6931ce9c12c",
+            "collectionId": "e2b47f3c00aa426b8f29ac1534aca96e",
             "rawModeData": ""
         },
         {
-            "id": "14d41c97507d59e0fb953b12373a6308",
+            "id": "718e5ed49ca3c5665c148cd33d26bd74",
             "name": "Update asset",
             "url": "https{subdomain}.fluxiom.com\/api\/{format}\/api\/assets\/ID",
             "description": "Update asset",
@@ -209,11 +209,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "09a849552d63d7b2d50fd6931ce9c12c",
+            "collectionId": "e2b47f3c00aa426b8f29ac1534aca96e",
             "rawModeData": ""
         },
         {
-            "id": "8756de6cd7d12207eb64dd30fca63d42",
+            "id": "2d518ec34183d1960974ff6876cc07fe",
             "name": "Get asset versions",
             "url": "https{subdomain}.fluxiom.com\/api\/{format}\/api\/assets\/ID\/versions",
             "description": "Get asset versions",
@@ -232,11 +232,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "09a849552d63d7b2d50fd6931ce9c12c",
+            "collectionId": "e2b47f3c00aa426b8f29ac1534aca96e",
             "rawModeData": ""
         },
         {
-            "id": "b81ded376bc2e6318d66fed783241af7",
+            "id": "e84e3ad2495ddbd97ed195aaef06e11f",
             "name": "Create asset version",
             "url": "https{subdomain}.fluxiom.com\/api\/{format}\/api\/assets\/ID\/versions",
             "description": "Create asset version",
@@ -270,11 +270,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "09a849552d63d7b2d50fd6931ce9c12c",
+            "collectionId": "e2b47f3c00aa426b8f29ac1534aca96e",
             "rawModeData": ""
         },
         {
-            "id": "94d4b9ae27aceb77150d25aa239d5bb3",
+            "id": "25642cafcaceeee078614b5e7307cfac",
             "name": "Get single asset version",
             "url": "https{subdomain}.fluxiom.com\/api\/{format}\/api\/assets\/ID\/versions\/VID",
             "description": "Get single asset version",
@@ -293,11 +293,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "09a849552d63d7b2d50fd6931ce9c12c",
+            "collectionId": "e2b47f3c00aa426b8f29ac1534aca96e",
             "rawModeData": ""
         },
         {
-            "id": "4390c5e76b1f9ae17ba7e7cf775a7198",
+            "id": "5662229ebd705e1fa86512458f8ede7f",
             "name": "Delete asset",
             "url": "https{subdomain}.fluxiom.com\/api\/{format}\/api\/assets\/{id}",
             "description": "Delete asset",
@@ -324,11 +324,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "09a849552d63d7b2d50fd6931ce9c12c",
+            "collectionId": "e2b47f3c00aa426b8f29ac1534aca96e",
             "rawModeData": ""
         },
         {
-            "id": "7798e2c4f96b84d5d4ceb6da03ab2d6b",
+            "id": "6e7feb9cd6a766913f6f6b75f32dcddf",
             "name": "Get tags",
             "url": "https{subdomain}.fluxiom.com\/api\/{format}\/api\/tags",
             "description": "Get tags",
@@ -347,11 +347,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "09a849552d63d7b2d50fd6931ce9c12c",
+            "collectionId": "e2b47f3c00aa426b8f29ac1534aca96e",
             "rawModeData": ""
         },
         {
-            "id": "aeaafd0a716b1aea0b30a0db6a13da10",
+            "id": "cd882429f2216c12be94b4325400ab3a",
             "name": "Create tag",
             "url": "https{subdomain}.fluxiom.com\/api\/{format}\/api\/tags",
             "description": "Create tag",
@@ -378,11 +378,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "09a849552d63d7b2d50fd6931ce9c12c",
+            "collectionId": "e2b47f3c00aa426b8f29ac1534aca96e",
             "rawModeData": ""
         },
         {
-            "id": "24c48f1afe7d1d99729d68ce8a3d7c4d",
+            "id": "bc74ab8c93316e8ab2e7243bd319bb51",
             "name": "Get single tag",
             "url": "https{subdomain}.fluxiom.com\/api\/{format}\/api\/tags\/ID",
             "description": "Get single tag",
@@ -401,11 +401,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "09a849552d63d7b2d50fd6931ce9c12c",
+            "collectionId": "e2b47f3c00aa426b8f29ac1534aca96e",
             "rawModeData": ""
         },
         {
-            "id": "eefa2862e5a5dd69fdaabfb8996bf92f",
+            "id": "9a0050a74fd8fd19cf14dd787f617c32",
             "name": "Update tag",
             "url": "https{subdomain}.fluxiom.com\/api\/{format}\/api\/tags\/ID",
             "description": "Update tag",
@@ -432,11 +432,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "09a849552d63d7b2d50fd6931ce9c12c",
+            "collectionId": "e2b47f3c00aa426b8f29ac1534aca96e",
             "rawModeData": ""
         },
         {
-            "id": "d90b2cffd55c94bf2f0b6ff15dbc210d",
+            "id": "e2db127b3e6955aa7e29c8c37cad55b1",
             "name": "Delete tag",
             "url": "https{subdomain}.fluxiom.com\/api\/{format}\/api\/tags\/{id}",
             "description": "Delete tag",
@@ -463,11 +463,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "09a849552d63d7b2d50fd6931ce9c12c",
+            "collectionId": "e2b47f3c00aa426b8f29ac1534aca96e",
             "rawModeData": ""
         },
         {
-            "id": "2dd50ffaf69044f5a6b4c6cf6870daa7",
+            "id": "ee768c74d902eafafda624c14fb19880",
             "name": "Get current user",
             "url": "https{subdomain}.fluxiom.com\/api\/{format}\/api\/user",
             "description": "Get current user",
@@ -486,11 +486,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "09a849552d63d7b2d50fd6931ce9c12c",
+            "collectionId": "e2b47f3c00aa426b8f29ac1534aca96e",
             "rawModeData": ""
         },
         {
-            "id": "4033b194bf6ed27cc5c03e98ace7ee7d",
+            "id": "e657c877680317554aebeca116d517c8",
             "name": "Get users",
             "url": "https{subdomain}.fluxiom.com\/api\/{format}\/api\/users",
             "description": "Get users",
@@ -509,11 +509,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "09a849552d63d7b2d50fd6931ce9c12c",
+            "collectionId": "e2b47f3c00aa426b8f29ac1534aca96e",
             "rawModeData": ""
         },
         {
-            "id": "9c1bc563b1c1805fce2e518306a42f14",
+            "id": "9377a6e8e188bc4ab5ba6f8cb0b0f500",
             "name": "Get single user",
             "url": "https{subdomain}.fluxiom.com\/api\/{format}\/api\/users\/{id}",
             "description": "Get single user",
@@ -540,7 +540,7 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "09a849552d63d7b2d50fd6931ce9c12c",
+            "collectionId": "e2b47f3c00aa426b8f29ac1534aca96e",
             "rawModeData": ""
         }
     ]
